@@ -1,0 +1,97 @@
+
+l	java:S109"RAssign this magic number 7 to a well-named constant, and use the constant instead.(«ÊÍıÿÿÿÿ
+g	java:S109"SAssign this magic number 12 to a well-named constant, and use the constant instead.(òÀq
+f	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(òÀq
+f	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(òÀq
+f	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(òÀq
+f	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(òÀq
+f	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(òÀq
+f	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(òÀq
+h	java:S109/"SAssign this magic number 10 to a well-named constant, and use the constant instead.(¾«•®
+l	java:S109r"RAssign this magic number 6 to a well-named constant, and use the constant instead.(¥Ê³¾ûÿÿÿÿ
+l	java:S109r"RAssign this magic number 5 to a well-named constant, and use the constant instead.(¥Ê³¾ûÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ùŒÈ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+V
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(£o
+W
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(ø­–
+W
+java:S11065"AMove this left curly brace to the beginning of next line of code.(å¥‡
+W
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(¾«•®
+W
+java:S11061"AMove this left curly brace to the beginning of next line of code.(å¥‡
+\
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(ÀÓ¾èøÿÿÿÿ
+W
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(áôá
+\
+java:S1106L"AMove this left curly brace to the beginning of next line of code.(ü§è½ùÿÿÿÿ
+\
+java:S1106["AMove this left curly brace to the beginning of next line of code.(Èšëôûÿÿÿÿ
+W
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(áôá
+V
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(›”ûN
+W
+java:S1106k"AMove this left curly brace to the beginning of next line of code.(áôá
+\
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(¥Ê³¾ûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+Z
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘
+_
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(«ÊÍıÿÿÿÿ
+_
+java:S1120+"DMake this line start after 4 spaces to indent the code consistently.(Úî¿òøÿÿÿÿ
+_
+java:S1120."DMake this line start after 6 spaces to indent the code consistently.(ÏêŞğøÿÿÿÿ
+_
+java:S11200"DMake this line start after 8 spaces to indent the code consistently.(š¯Äâÿÿÿÿÿ
+_
+java:S11202"DMake this line start after 8 spaces to indent the code consistently.(™Î§ˆşÿÿÿÿ
+Z
+java:S11206"DMake this line start after 6 spaces to indent the code consistently.(áôà—
+Z
+java:S1120G"DMake this line start after 4 spaces to indent the code consistently.(áôá
+Z
+java:S1120H"DMake this line start after 6 spaces to indent the code consistently.(ØÖ¾Ş
+Z
+java:S1120M"DMake this line start after 8 spaces to indent the code consistently.(»·³Â
+Z
+java:S1120\"DMake this line start after 4 spaces to indent the code consistently.(áôá
+_
+java:S1120]"DMake this line start after 6 spaces to indent the code consistently.(º™¾¨øÿÿÿÿ
+Z
+java:S1120i"DMake this line start after 4 spaces to indent the code consistently.(Şë‰‹
+_
+java:S1120l"DMake this line start after 6 spaces to indent the code consistently.(¨İªàúÿÿÿÿ
+Z
+java:S1120s"DMake this line start after 6 spaces to indent the code consistently.(Ö‡â›
+`	java:S103"KSplit this 147 characters long line (which is greater than 120 authorized).(êİç×
+`	java:S103$"KSplit this 127 characters long line (which is greater than 120 authorized).(ú¢ßî
+e	java:S103]"KSplit this 188 characters long line (which is greater than 120 authorized).(º™¾¨øÿÿÿÿ
+4
+java:S1451"&Add or update the header of this file.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­í¦¤
+e
+java:S3776*"PRefactor this method to reduce its Cognitive Complexity from 6 to the 5 allowed.(£o
+P
+java:S1943+"5Remove this use of constructor "Scanner(InputStream)"(Úî¿òøÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Ş©‘Ò
+G
+java:S11085"1Move this "else" keyword to a new dedicated line.(å¥‡
+G
+java:S11081"1Move this "else" keyword to a new dedicated line.(å¥‡
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(™Î§ˆşÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(áôà—
+S
+java:S1244O"=Equality tests should not be made with floating point values.(¿Ùÿá
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(öì‰úùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(º™¾¨øÿÿÿÿ
+M	java:S106p"9Replace this use of System.out or System.err by a logger.(İßõ7
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(Ö‡â›
